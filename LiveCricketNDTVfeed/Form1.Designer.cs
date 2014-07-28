@@ -360,7 +360,7 @@
             this.Controls.Add(this.lbProxies);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Live Cricket NDTV Feed v1.1";
+            this.Text = "Live Cricket NDTV Feed v1.2";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
